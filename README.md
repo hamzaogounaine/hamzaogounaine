@@ -1,8 +1,7 @@
+##Welcome to my github profile
 ## Hi there 👋
-
-<!--# Hi, I'm [Your Name]! 👋
-
-![Profile Banner Image or GIF (Optional)](link-to-image)
+ Hi, I'm
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Clash+display&letterSpacing=2px&pause=1000&width=435&lines=Ogounaine+Hamza)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a full-stack developer with a passion for [your specialty or passion, e.g. building web applications, designing algorithms, etc.].
@@ -41,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
